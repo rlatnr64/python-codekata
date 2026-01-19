@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/133024
 # 작성자: 김수인
-# 작성일: 2026. 01. 19. 10:27:54
+# 작성일: 2026. 01. 19. 10:29:05
 
 SELECT
     FLAVOR
