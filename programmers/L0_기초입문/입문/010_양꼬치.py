@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120830
 # 알고리즘: 기초
 # 작성자: 김수인
-# 작성일: 2026. 01. 20. 13:53:52
+# 작성일: 2026. 01. 20. 13:57:37
 
 def solution(n, k):
     free_drink =  n // 10 
