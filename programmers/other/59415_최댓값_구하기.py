@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59415
 # 작성자: 김수인
-# 작성일: 2026. 01. 22. 10:51:36
+# 작성일: 2026. 01. 22. 10:55:53
 
 SELECT
     DATETIME as "시간"
