@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59045
 # 작성자: 김수인
-# 작성일: 2026. 02. 03. 22:29:47
+# 작성일: 2026. 02. 03. 22:34:59
 
 SELECT
     AI.ANIMAL_ID,
