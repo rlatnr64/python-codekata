@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59044
 # 작성자: 김수인
-# 작성일: 2026. 02. 06. 14:44:57
+# 작성일: 2026. 02. 06. 14:47:00
 
 SELECT
     AI.NAME,
