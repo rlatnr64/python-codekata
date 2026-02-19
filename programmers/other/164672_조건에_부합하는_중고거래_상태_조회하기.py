@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/164672
 # 작성자: 김수인
-# 작성일: 2026. 02. 19. 22:17:48
+# 작성일: 2026. 02. 19. 23:02:52
 
 SELECT
     BOARD_ID,
