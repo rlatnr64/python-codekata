@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131123
 # 작성자: 김수인
-# 작성일: 2026. 02. 24. 15:42:07
+# 작성일: 2026. 02. 24. 15:44:53
 
 SELECT 
     FOOD_TYPE,
