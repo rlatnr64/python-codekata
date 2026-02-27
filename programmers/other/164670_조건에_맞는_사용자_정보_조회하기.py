@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/164670
 # 작성자: 김수인
-# 작성일: 2026. 02. 27. 15:15:40
+# 작성일: 2026. 02. 27. 15:24:33
 
 SELECT
     U.USER_ID,
