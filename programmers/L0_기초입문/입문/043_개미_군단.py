@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120837
 # 알고리즘: 기초
 # 작성자: 김수인
-# 작성일: 2026. 03. 16. 16:43:59
+# 작성일: 2026. 03. 16. 16:44:07
 
 def solution(hp):
     answer = 0
@@ -14,4 +14,5 @@ def solution(hp):
     hp %= 3
     answer += hp // 1
     hp %= 1
+    
     return answer
