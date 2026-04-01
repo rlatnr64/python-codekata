@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/157342
 # 작성자: 김수인
-# 작성일: 2026. 04. 01. 17:03:54
+# 작성일: 2026. 04. 01. 17:03:59
 
 SELECT
     CAR_ID,
