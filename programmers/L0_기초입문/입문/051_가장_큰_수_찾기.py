@@ -3,12 +3,13 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120899
 # 알고리즘: 기초
 # 작성자: 김수인
-# 작성일: 2026. 04. 07. 12:56:16
+# 작성일: 2026. 04. 07. 12:57:31
 
 def solution(array):
     answer = []
+    
+    a = max(array)
     b = array.index(max(array))
-    array.sort()
-    a = array[-1]
     answer = a,b
+    
     return answer
