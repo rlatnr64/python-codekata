@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59413
 # 작성자: 김수인
-# 작성일: 2026. 04. 10. 17:46:12
+# 작성일: 2026. 04. 10. 17:47:57
 
 WITH RECURSIVE ETC AS (
     SELECT 0 AS HOUR
