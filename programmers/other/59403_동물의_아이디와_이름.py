@@ -2,9 +2,9 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59403
 # 작성자: 김수인
-# 작성일: 2026. 01. 20. 11:20:58
+# 작성일: 2026. 11. 24. 12:21:09
 
-SELECT
+SELECT 
     ANIMAL_ID,
     NAME
 FROM ANIMAL_INS
