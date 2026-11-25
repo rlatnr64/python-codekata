@@ -2,10 +2,10 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59405
 # 작성자: 김수인
-# 작성일: 2026. 01. 20. 11:21:38
+# 작성일: 2026. 11. 25. 19:22:50
 
-SELECT
-    NAME
+SELECT NAME
 FROM ANIMAL_INS
-ORDER BY DATETIME
+WHERE DATETIME = (SELECT MIN(DATETIME) FROM ANIMAL_INS)
+ORDER BY NAME
 LIMIT 1;
