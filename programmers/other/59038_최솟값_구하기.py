@@ -2,7 +2,7 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/59038
 # 작성자: 김수인
-# 작성일: 2026. 11. 25. 19:43:16
+# 작성일: 2026. 11. 25. 19:43:22
 
 SELECT MIN(DATETIME) AS '시간'
 FROM ANIMAL_INS
