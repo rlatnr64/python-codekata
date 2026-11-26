@@ -2,9 +2,8 @@
 # 프로그래머스 (unknown)
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/131528
 # 작성자: 김수인
-# 작성일: 2026. 01. 20. 11:24:05
+# 작성일: 2026. 11. 26. 15:47:03
 
-SELECT
-    COUNT(USER_ID) AS USERS
+SELECT COUNT(USER_ID) AS 'USERS'
 FROM USER_INFO
-WHERE AGE IS NULL;
+WHERE AGE IS NULL
