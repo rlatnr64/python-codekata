@@ -3,7 +3,7 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120898
 # 알고리즘: 기초
 # 작성자: 김수인
-# 작성일: 2026. 11. 26. 17:06:09
+# 작성일: 2026. 11. 26. 17:08:21
 
 def solution(message):
     answer = len(message)*2
