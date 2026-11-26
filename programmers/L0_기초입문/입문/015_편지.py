@@ -3,8 +3,8 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120898
 # 알고리즘: 기초
 # 작성자: 김수인
-# 작성일: 2026. 01. 22. 11:17:20
+# 작성일: 2026. 11. 26. 17:06:09
 
 def solution(message):
-    answer = len(message) * 2
+    answer = len(message)*2
     return answer
